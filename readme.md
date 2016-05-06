@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Ajhandler/Castine.png?label=ready&title=Ready)](https://waffle.io/Ajhandler/Castine)
 # Castine
 A small demo for learning about compliance
 
